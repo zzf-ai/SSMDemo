@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CRUDTest:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffc235d7-1fdf-4aa6-a3e9-e48f2230612d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/mybatis?serverTimezone=GMT%2b8&amp;useUnicode=true&amp;characterEncoding=UTF-8&amp;useSSL=false&amp;zeroDateTimeBehavior=CONVERT_TO_NULL&amp;allowPublicKeyRetrieval=true" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/mybatis?serverTimezone=GMT%2b8&amp;useUnicode=true&amp;characterEncoding=UTF-8&amp;useSSL=false&amp;zeroDateTimeBehavior=CONVERT_TO_NULL&amp;allowPublicKeyRetrieval=true" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/mybatis?serverTimezone=GMT%2b8&amp;useUnicode=true&amp;characterEncoding=UTF-8&amp;useSSL=false&amp;zeroDateTimeBehavior=CONVERT_TO_NULL&amp;allowPublicKeyRetrieval=true" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jdbc:mysql://localhost:3306/mybatis?serverTimezone=GMT%2b8&amp;useUnicode=true&amp;characterEncoding=UTF-8&amp;useSSL=false&amp;zeroDateTimeBehavior=CONVERT_TO_NULL&amp;allowPublicKeyRetrieval=true" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatis: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\maven-repo" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n8zhSMUb1Zyj6Z8VbNQxmGQIWY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea项目\Study\CRUDTest\CRUDTest\src\main\resources" />
+      <recent name="D:\idea项目\Study\CRUDTest\CRUDTest\src\main\webapp\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea项目\Study\CRUDTest\CRUDTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.43">
+    <configuration name="MBGTest.generate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CRUDTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzf.ssm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zzf.ssm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.zzf.ssm.test.MBGTest" />
+      <option name="METHOD_NAME" value="generate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CRUDTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzf.ssm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zzf.ssm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.zzf.ssm.test.MapperTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapperTest.testCRUD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CRUDTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzf.ssm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zzf.ssm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.zzf.ssm.test.MapperTest" />
+      <option name="METHOD_NAME" value="testCRUD" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageTest.testPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CRUDTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzf.ssm.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zzf.ssm.test" />
+      <option name="MAIN_CLASS_NAME" value="com.zzf.ssm.test.PageTest" />
+      <option name="METHOD_NAME" value="testPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.43" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.43" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="CRUDTest:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_CRUDTest" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51983" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="CRUDTest:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MapperTest" />
+      <item itemvalue="JUnit.MapperTest.testCRUD" />
+      <item itemvalue="JUnit.MBGTest.generate" />
+      <item itemvalue="JUnit.PageTest.testPage" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.43" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PageTest.testPage" />
+        <item itemvalue="JUnit.MapperTest.testCRUD" />
+        <item itemvalue="JUnit.MapperTest" />
+        <item itemvalue="JUnit.MBGTest.generate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.14139344" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffc235d7-1fdf-4aa6-a3e9-e48f2230612d" name="Default Changelist" comment="" />
+      <created>1610786624345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610786624345</updated>
+      <workItem from="1610786627114" duration="18995000" />
+      <workItem from="1610863445737" duration="30687000" />
+      <workItem from="1610942737425" duration="20275000" />
+      <workItem from="1611028711756" duration="8490000" />
+      <workItem from="1611047883724" duration="42000" />
+      <workItem from="1611047935438" duration="1680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="142" key="#Template_Data_Languages" timestamp="1610879244778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="142" key="#Template_Data_Languages/0.0.1536.824@0.0.1536.824" timestamp="1610879244778" />
+    <state x="236" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610865612865">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="236" y="78" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610865612865" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1610984046668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1610984046668" />
+    <state x="401" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1610809515239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="401" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1610809515239" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1610801438578">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1536.824@0.0.1536.824" timestamp="1610801438578" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1611048092040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611048092040" />
+    <state width="1256" height="252" key="GridCell.Tab.0.bottom" timestamp="1611046895359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1256" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611046895359" />
+    <state width="1256" height="252" key="GridCell.Tab.0.center" timestamp="1611046895359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1256" height="252" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611046895359" />
+    <state width="1256" height="252" key="GridCell.Tab.0.left" timestamp="1611046895359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1256" height="252" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611046895359" />
+    <state width="1256" height="252" key="GridCell.Tab.0.right" timestamp="1611046895359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1256" height="252" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611046895359" />
+    <state width="1256" height="252" key="GridCell.Tab.1.bottom" timestamp="1611046895359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1256" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611046895359" />
+    <state width="1256" height="252" key="GridCell.Tab.1.center" timestamp="1611046895359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1256" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1611046895359" />
+    <state width="1256" height="252" key="GridCell.Tab.1.left" timestamp="1611046895359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1256" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1611046895359" />
+    <state width="1256" height="252" key="GridCell.Tab.1.right" timestamp="1611046895359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1256" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1611046895359" />
+    <state width="1256" height="252" key="GridCell.Tab.2.bottom" timestamp="1611046895359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1256" height="252" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611046895359" />
+    <state width="1256" height="252" key="GridCell.Tab.2.center" timestamp="1611046895359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1256" height="252" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1611046895359" />
+    <state width="1256" height="252" key="GridCell.Tab.2.left" timestamp="1611046895359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1256" height="252" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1611046895359" />
+    <state width="1256" height="252" key="GridCell.Tab.2.right" timestamp="1611046895359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1256" height="252" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1611046895359" />
+    <state x="317" y="46" key="SettingsEditor" timestamp="1611049624059">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="317" y="46" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611049624059" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1611028711683">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1611028711683" />
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611047924009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1611047924009" />
+    <state x="428" y="418" key="run.anything.popup" timestamp="1610897877178">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="428" y="418" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1610897877178" />
+    <state x="338" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1610900699083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1610900699083" />
+  </component>
+</project>
